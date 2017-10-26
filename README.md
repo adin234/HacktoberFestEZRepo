@@ -6,3 +6,4 @@
 - [mynameiswut/GetMeAShirt](http://github.com/mynameiswut/GetMeAShirt)
 - [nikhilmufc7/Hacktoberfest-PR](https://github.com/nikhilmufc7/Hacktoberfest-PR)
 - [Cutwell/Hacktoberfest-Census](https://github.com/Cutwell/Hacktoberfest-Census)
+- [Nguyen17/Hacktoberfest-Sign-In](https://github.com/Nguyen17/Hacktoberfest-Sign-In)
